@@ -143,7 +143,7 @@ export default function Products() {
                     </div>
 
                     <div className="text-3xl font-light">
-                        59€
+                        89€
                     </div>
 
                 </div>
